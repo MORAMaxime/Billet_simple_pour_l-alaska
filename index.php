@@ -1,0 +1,10 @@
+<?php
+include'html_start.php';
+include'bdd_connect.php';
+include'nav_bar.php';
+include'hero.php';
+include'last_articles.php';
+include'author_description.php';
+include'footer.php';
+include'html_end.php';
+?>

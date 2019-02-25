@@ -1,0 +1,9 @@
+<?php
+include'html_start.php';
+include'bdd_connect.php';
+include'nav_bar.php';
+include'hero.php';
+include'all_articles.php';
+include'footer.php';
+include'html_end.php';
+?>
